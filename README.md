@@ -1,2 +1,6 @@
-# unity-game-releases
-Releases of my game
+{
+  "version": "0.6.0",
+  "changelog": [
+    "Primeiro teste"
+  ]
+}
