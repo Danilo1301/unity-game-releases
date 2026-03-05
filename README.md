@@ -1,6 +1,1 @@
-{
-  "version": "0.6.0",
-  "changelog": [
-    "Primeiro teste"
-  ]
-}
+# unity-game-releases
